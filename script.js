@@ -1,7 +1,7 @@
 const express = require("express")
 
 const  app = express()
-const Uname = "sherrywilson521@gmail.com";
+const Uname = "sherrywilson";
 const Upass = "sherry@123";
 
 
